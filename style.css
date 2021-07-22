@@ -1,0 +1,16 @@
+#body.background{
+    background-image: url("GGG.jpg");
+}
+h1{
+    text-decoration: underline;
+    text-decoration-style: double;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    text-decoration: red;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style: ridge;
+}
